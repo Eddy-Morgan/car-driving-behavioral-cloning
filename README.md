@@ -41,6 +41,6 @@ This will generate a file `model-<epoch>.h5` whenever the performance in the epo
 
 ## Credits
 
-The credits for this code go to [naokishibuya](https://github.com/naokishibuya).
+The credits for this code go to [naokishibuya](https://github.com/naokishibuya).  I merely trained the model for a desirable driving
 
 
