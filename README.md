@@ -1,6 +1,10 @@
 # car-driving-behavioral-cloning
 This code uses Udacity's self driving car simulator to learn and autonomously drive a car on a road. 
 
+Use Udacity's [self driving car simulator](https://github.com/udacity/self-driving-car-sim) as a testbed for training an autonomous car. Download 
+
+Download the zip file from https://github.com/udacity/self-driving-car-sim, extract it and run the executable file.
+
 ## Dependencies
 
 You can install all dependencies by running one of the following commands
